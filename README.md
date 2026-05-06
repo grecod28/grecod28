@@ -1,7 +1,5 @@
 # Santiago Greco – Fullstack Web Developer
 
-¡Hola! Soy desarrollador web fullstack con formación en **Desarrollo de Aplicaciones Web (DAW)** y enfocado en crear aplicaciones modernas, escalables y bien estructuradas tanto en frontend como en backend.
-
 ---
 
 ## Sobre mí
@@ -26,6 +24,7 @@ Cuento con el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**, donde 
 ### 🔹 Backend
 
 * **NestJS**
+* **Despliegue de aplicaciones con contenedores Docker**
 * Arquitectura modular
 * Creación de APIs REST
 * Autenticación y autorización
