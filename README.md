@@ -74,8 +74,7 @@ También estoy familiarizado con:
 
 Puedes contactarme o ver más proyectos en:
 
-* Instagram: https://www.instagram.com/stgrecod/
-* LinkedIn: https://www.linkedin.com/in/santiago-greco-dominguez-681588348/
+* LinkedIn: https://www.linkedin.com/in/santiago-greco-dominguez
 
 ---
 
