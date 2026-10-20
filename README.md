@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Santiago Greco 👋</h1>
-<h3 align="center">Full Stack Developer especializado en JavaScript / TypeScript</h3>
+<h3 align="center">Desarrollador de software · TypeScript · Big Data e Inteligencia Artificial</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -24,11 +24,11 @@
 
 ## 👋 Sobre mí
 
-Desarrollador Full Stack especializado en construir aplicaciones web completas, desde la interfaz de usuario hasta la arquitectura de backend y la gestión de datos. Me enfoco en escribir código mantenible, diseñar arquitecturas sólidas y entregar productos con buena experiencia de usuario.
+Desarrollador de software con experiencia construyendo aplicaciones web de extremo a extremo: interfaz, arquitectura de backend y gestión de datos. Escribo código mantenible, diseño arquitecturas sólidas y entrego productos con buena experiencia de usuario.
 
-Cuento con experiencia profesional como desarrollador en **Knowmeet Tech S.L.** y **DLTCode**, además del **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**, finalizado con **Matrícula de Honor (9.47/10)**.
+Actualmente cursando la **especialización en Big Data e Inteligencia Artificial**, con el objetivo de llevar mi base de ingeniería de software al terreno de los datos y los modelos de IA, para construir productos que no solo funcionen, sino que aprendan y tomen decisiones a partir de los datos.
 
-Actualmente en búsqueda de nuevos retos como **Full Stack Developer**, y trabajando en la certificación **AWS Developer Associate**.
+Cuento con experiencia profesional en **Knowmeet Tech S.L.** y **DLTCode**, y soy titulado en **Desarrollo de Aplicaciones Web (DAW)** con **Matrícula de Honor (9.47/10)**. También estoy preparando la certificación **AWS Developer Associate**.
 
 ---
 
@@ -54,6 +54,11 @@ PostgreSQL · MySQL · MongoDB · Redis
 Prisma · TypeORM · Mongoose · Docker · NextAuth.js
 ```
 
+**En formación: Big Data e IA**
+```
+Procesamiento de datos a gran escala · Aprendizaje automático · Redes neuronales · IA aplicada
+```
+
 ---
 
 ## 🚀 Proyectos destacados
@@ -70,12 +75,13 @@ Plataforma desarrollada con **Angular**, **NestJS**, **TypeORM** y **MySQL**, co
 
 ## 🧩 Qué puedo aportar
 
-- Desarrollo de aplicaciones fullstack de extremo a extremo
-- Integración eficiente entre frontend y backend
+- Desarrollo de aplicaciones web de extremo a extremo, del frontend al despliegue
+- Integración eficiente entre frontend, backend y fuentes de datos
 - Diseño de APIs REST limpias, seguras y escalables
 - Sistemas de autenticación y autorización robustos
-- Buenas prácticas: clean code, modularidad, separación de responsabilidades
-- Despliegue y arquitectura orientada a la nube (AWS)
+- Base sólida en ingeniería de software: clean code, modularidad, separación de responsabilidades
+- Arquitectura y despliegue orientados a la nube (AWS)
+- Visión de datos e IA para llevar modelos y análisis a productos reales
 
 ---
 
@@ -84,4 +90,4 @@ Plataforma desarrollada con **Angular**, **NestJS**, **TypeORM** y **MySQL**, co
 - **LinkedIn:** [santiago-greco-dominguez](https://www.linkedin.com/in/santiago-greco-dominguez)
 - **Portfolio:** [grecodev.vercel.app](https://grecodev.vercel.app)
 
-<p align="center">⭐ Siempre abierto a nuevas oportunidades y proyectos desafiantes.</p>
+<p align="center">⭐ Abierto a nuevas oportunidades donde el software, los datos y la IA se encuentren.</p>
