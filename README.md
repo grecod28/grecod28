@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Desarrollador de software con experiencia construyendo aplicaciones web de extremo a extremo: interfaz, arquitectura de backend y gestión de datos. Escribo código mantenible, diseño arquitecturas sólidas y entrego productos con buena experiencia de usuario.
 
@@ -61,7 +61,7 @@ Procesamiento de datos a gran escala · Aprendizaje automático · Redes neurona
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 ### [UmbraChat](https://umbrachat.org)
 Aplicación de mensajería en tiempo real construida con **Next.js**, **WebSockets**, **Prisma** y **PostgreSQL**. Incluye autenticación, indicadores de escritura y gestión de archivos adjuntos vía S3.
@@ -69,11 +69,11 @@ Aplicación de mensajería en tiempo real construida con **Next.js**, **WebSocke
 ### Referigo
 Plataforma desarrollada con **Angular**, **NestJS**, **TypeORM** y **MySQL**, con procesamiento de tareas en segundo plano mediante **Redis** y **BullMQ**. Desplegada en un VPS autogestionado con **Nginx** y **PM2**.
 
-📂 Puedes ver estos y otros proyectos en mi [portfolio](https://grecodev.vercel.app).
+Puedes ver estos y otros proyectos en mi [portfolio](https://grecodev.vercel.app).
 
 ---
 
-## 🧩 Qué puedo aportar
+## Qué puedo aportar
 
 - Desarrollo de aplicaciones web de extremo a extremo, del frontend al despliegue
 - Integración eficiente entre frontend, backend y fuentes de datos
